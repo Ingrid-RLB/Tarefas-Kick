@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+}
+table{
+    margin: auto;
+    text-align: center;
+    width: 600px;
+    height: 400px;
+    border-color:rgb(64, 144, 74)
+}
+
+#header-box{
+    background-color: rgb(64, 144, 74);
+    -webkit-text-fill-color: white;
+}
+#menu-box{
+    background-color: rgb(64, 144, 74);
+    -webkit-text-fill-color: white;
+}
+#menu-box-2{
+        background-color: rgb(64, 144, 74);
+        -webkit-text-fill-color: white;
+    }
+#menu-box-3{
+        background-color: rgb(64, 144, 74);
+        -webkit-text-fill-color: white;
+    }
